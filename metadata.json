@@ -1,0 +1,8 @@
+{
+  "name": "Mera Insta",
+  "description": "Online social media platform for sharing posts, reels, stories, following friends, and messaging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
